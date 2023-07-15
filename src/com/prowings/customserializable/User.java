@@ -18,6 +18,8 @@ public class User implements Serializable {
 		super();
 	}
 
+	
+	
 
 	public User(String userId, String userName, String password) {
 		super();
