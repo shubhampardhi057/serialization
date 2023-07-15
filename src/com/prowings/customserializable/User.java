@@ -12,6 +12,8 @@ public class User implements Serializable {
 	transient String password;
 	
 	
+	
+	
 	public User() {
 		super();
 	}
