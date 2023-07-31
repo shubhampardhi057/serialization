@@ -6,7 +6,7 @@ import java.io.ObjectInputStream;
 public class CustomDeserialization {
 	
 	public static void main(String[] args) {
-		
+//		
 		try {
 			 FileInputStream file = new FileInputStream("user.ser");
 	         
